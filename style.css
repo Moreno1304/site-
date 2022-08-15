@@ -1,0 +1,39 @@
+body{
+    background-color: white;
+
+}
+header{
+    text-align: center;
+    height: 200px;
+
+}
+main{
+    flex-direction: column;
+    margin: 60px;
+}
+.titulo{
+    margin-top: 0;
+    font-size: 60px;
+}
+.subtítulo{
+    margin-bottom: 50px;
+    font-size: 24px;
+}
+.historia{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.filmes{
+    text-align: justify;
+    font-size: 20px;
+
+}
+.imagem{
+    width: 800px;
+
+}
+.footer{
+    font-size: 18px;
+    background-color: white;
+}
